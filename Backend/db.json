@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Karan",
+      "salary": "500000",
+      "company": "RK8055",
+      "id": 1
+    },
+    {
+      "name": " Amaresh M",
+      "salary": "800000",
+      "company": "RK8055",
+      "id": 3
+    },
+    {
+      "name": " Sharan",
+      "salary": "750000",
+      "company": "RK8055",
+      "id": 5
+    },
+    {
+      "name": " Ranganath",
+      "salary": " 450000",
+      "company": " RKBOSS",
+      "id": 6
+    }
+  ]
+}
